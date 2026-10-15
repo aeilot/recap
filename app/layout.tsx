@@ -17,6 +17,7 @@ const notoSerifSC = Noto_Serif_SC({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://recap.aeilot.top"),
   title: "2025 · 留白",
   description: "一個難以回憶、難以定義的年份。不如我們留白。",
 };
